@@ -1,6 +1,6 @@
 # Product_Preview_Card
 
-# Frontend Mentor | Results summary component
+# Frontend Mentor | Product Preview Card
 
 this is my code in challange Frontend Mentor .
 
